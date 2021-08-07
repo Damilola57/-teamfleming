@@ -1,8 +1,4 @@
-print('Damilola')
-print('Ibrahimabdulmumin1997@gmail.com')
-print('@Damilola')
-print('Data Science')
-print('@Damlord7')
+print('Damilola, ibrahimabdulmumin1997@gmail.com, @Damilola, Data Science, @Damlord7')
 
 
 
